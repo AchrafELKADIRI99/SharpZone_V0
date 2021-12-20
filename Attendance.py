@@ -102,7 +102,7 @@ while True:
 # # detection rectangle
 # cv2.rectangle(imgElon1,(faceLoc1[3],faceLoc1[0]),(faceLoc1[1],faceLoc1[2]),(255,0,255),2)
 # # print(faceLoc)
-# teess
+# 
 # # locate face
 # faceLoc2 = face_recognition.face_locations(imgElon2)[0]
 # # encode face
